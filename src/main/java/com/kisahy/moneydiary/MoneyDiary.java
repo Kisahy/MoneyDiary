@@ -1,4 +1,4 @@
-package java.com.kisahy.moneydiary;
+package com.kisahy.moneydiary;
 
 import java.lang.String;
 import java.time.LocalDateTime;
